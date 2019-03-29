@@ -6,7 +6,7 @@ Esta es una prueba para probar habilidades generales de maquetado. Esta perimiti
 
 ## Cómo Empezar
 
-- Clonar el repo: `git clone https://github.com/BlackrockDigital/startbootstrap-scrolling-nav.git`
+- Clonar el repo: `git clone https://github.com/jotaate/PruebaMaquetado.git`
 
 - Si lo deseas puedes ejecutar `npm install` y luego ejecuta `gulp dev` lo que abrirá un preview en tu navegador por defecto y al modificar los archivos html o css se refrescará automaticamente. Debes tener npm y gulp instaladas globalmente en tu computadora para usar estas funciones.
 
